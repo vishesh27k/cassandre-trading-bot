@@ -15,7 +15,7 @@ import javax.validation.constraints.NotNull;
 import java.time.Duration;
 
 /**
- * Parameters from application.properties.
+ * Paramete rs from application.properties.
  */
 @Validated
 @Getter
