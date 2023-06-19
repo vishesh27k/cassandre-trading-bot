@@ -34,6 +34,7 @@ public class ExchangeParameters {
     /** API username. */
     @NotEmpty(message = "API username required")
     private String username;
+    private String cookie;
 
     /** API passphrase. */
     private String passphrase;
